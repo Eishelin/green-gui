@@ -1,0 +1,16 @@
+# Various logs
+log.txt
+traceback.txt
+errors.txt
+
+# Compiled files
+*/**/*.rpyc
+*/**/*.rpymc
+dialogue.tab
+
+# Saves
+game/saves
+
+# Cache
+game/cache
+*.xmp
